@@ -28,7 +28,7 @@ Web Service được xây dựng bằng ASP.NET Web Services và kết nối v�
 ### Các tính năng đã triển khai
 1. Tham chiếu dịch vụ (Service Reference):
 
-- Ứng dụng sử dụng tham chiếu SOAP của WebService1 để giao tiếp.
+- Ứng dụng sử dụng tham chiếu SOAP của [WebService1](https://localhost:44390/WebService1.asmx) để giao tiếp.
 2. Thành phần giao diện:
 
 - TextBox: Cho phép người dùng nhập liệu (mã quốc gia, tên thành phố, quận/huyện).
